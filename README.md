@@ -16,10 +16,9 @@ Narzędzie to umożliwia łatwe i szybkie sortowanie plików multimedialnych, co
 1. Sklonuj repozytorium MediaOrganizer.
 2. Zainstaluj ExifTool za pomocą polecenia sudo apt-get install exiftool w terminalu`
 3.
-```bash``
+```bash
 sudo apt install exiftool
 git clone git@codeberg.org:bobiko/MediaOrganizer.git ./media-organizer
-```
 ```
 
 ## Użycie
@@ -36,8 +35,6 @@ dostpępne opcje
 - `-s` - statystyka
 
 ### `media_cleanup`
-
-
 
 ## Uwaga
 Pamiętaj, aby zawsze posiadać kopię oryginalnych zdjęć i filmów na wypadek przypadkowego usunięcia lub nadpisania plików.
