@@ -18,7 +18,7 @@ Narzędzie to umożliwia łatwe i szybkie sortowanie plików multimedialnych, co
 3.
 ```bash
 sudo apt install exiftool
-git clone git@codeberg.org:bobiko/MediaOrganizer.git ./media-organizer
+git clone https://codeberg.org/bobiko/MediaOrganizer.git ./media-organizer
 ```
 
 ## Użycie
@@ -40,4 +40,4 @@ dostpępne opcje
 Pamiętaj, aby zawsze posiadać kopię oryginalnych zdjęć i filmów na wypadek przypadkowego usunięcia lub nadpisania plików.
 
 ## Licencja
-Ten projekt jest udostępniany na licencji MIT. Szczegóły znajdują się w pliku LICENSE.
+Ten projekt jest udostępniany na licencji MIT.
