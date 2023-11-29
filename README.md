@@ -87,4 +87,4 @@ Dostepne opcje:
 - Przed odpaleniem skryptów, należy zrobić kopię multimediów na wypadek przypadkowego usunięcia lub nadpisania plików.
 - Jest spore prawdopobieństwo, ze nie wszystkie przypadki zostały uwzględnione, dlatego sklonuj / sforkuj  i dostosuj pod siebie
 
-## Dzięki :)
+## Dzięki
